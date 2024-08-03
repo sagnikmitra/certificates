@@ -96,7 +96,7 @@ if name_input and team_input:
         st.image(img_buffer, caption="Generated Certificate")
 
         # Create file name with participant's name and team name
-        file_name = f"Hack4Bengal_Participation_{name_input}_{team_input}.png"
+        file_name = f"Hack4Bengal_Season_3_Participation_{name_input}_{team_input}.png"
         
         st.download_button(
             label="Download Certificate",
