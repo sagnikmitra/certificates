@@ -1,25 +1,25 @@
-name,team,gender
-Enter Core Member Name,Enter Team Name,m
-Anirban Saha ,Content Team,m
-Kiran Mishra ,Content Team,f
-Prachi Kumari,Content Team,f
-Sayanabha Chandra,Content Team,m
-Rajdeep De,Events Team,m
-Sanyukta Mishra,Events Team,f
-Amandeep Singh ,Events Team,m
-Souradeep Mukherjee ,Events Team,m
-Priya Singh ,Events Team,f
-Saswata Ghosh ,Events Team,m
-Samrat Kumar Das,Graphics Team,m
-Rabisankar Mishra ,Graphics Team,m
-Arindam Majumder,Marketing Team,m
-Aditya Gurung,Marketing Team,m
-Utkarsh Jaiswal,Marketing Team,m
-Shruti Jain,PR & Outreach Team,f
-Arkapravo Ghosh,Web Team,m
-Rohit Roy,Web Team,m
-Rinki Shaw ,Web Team,f
-Tamal Das,Web Team,m
-Adarsh Gupta,Web Team,m
-Satyajit Sahoo,Web Design Team,m
-Saurabh Kumar Jha,Web Design Team,m
+name,team,gender,cert_id
+Enter Core Member Name,Enter Team Name,m,4yb9y
+Anirban Saha ,Content Team,m,t1dq3
+Kiran Mishra ,Content Team,f,fg7sl
+Prachi Kumari,Content Team,f,rs2hg
+Sayanabha Chandra,Content Team,m,2hjkw
+Rajdeep De,Events Team,m,5bd5h
+Sanyukta Mishra,Events Team,f,3kkif
+Amandeep Singh ,Events Team,m,2zict
+Souradeep Mukherjee ,Events Team,m,bjz90
+Priya Singh ,Events Team,f,i0j2q
+Saswata Ghosh ,Events Team,m,6rwf1
+Samrat Kumar Das,Graphics Team,m,bf6ah
+Rabisankar Mishra ,Graphics Team,m,u9xhq
+Arindam Majumder,Marketing Team,m,c1h2z
+Aditya Gurung,Marketing Team,m,ihfo2
+Utkarsh Jaiswal,Marketing Team,m,737s1
+Shruti Jain,PR & Outreach Team,f,xyj4f
+Arkapravo Ghosh,Web Team,m,2fbza
+Rohit Roy,Web Team,m,0ne8f
+Rinki Shaw ,Web Team,f,wrv1k
+Tamal Das,Web Team,m,rynz4
+Adarsh Gupta,Web Team,m,92hik
+Satyajit Sahoo,Web Design Team,m,advwv
+Saurabh Kumar Jha,Web Design Team,m,fxw1y
