@@ -1,0 +1,367 @@
+team,teamid,name
+Pizzamen,H4B001,Subhadip Saha
+Pizzamen,H4B001,KUHELI MANNA
+Pizzamen,H4B001,Subinoy Biswas
+Pizzamen,H4B001,SPANDAN CHAKRABARTY
+Debug Detectives,H4B002,SOMNATH BISWAS
+Debug Detectives,H4B002,Sarbani Sarkar
+Debug Detectives,H4B002,Poulami Samanta.
+Debug Detectives,H4B002,Sreya Das
+Code Busters,H4B003,Rupam Das
+Code Busters,H4B003,Pranay Bhowmik
+Code Busters,H4B003,Ritobrata Bose
+Code Busters,H4B003,Pulak Tarafder
+KERNAL KREW,H4B004,Indrajit Ari
+KERNAL KREW,H4B004,Nandini Das
+KERNAL KREW,H4B004,Arsallan Shahab
+KERNAL KREW,H4B004,Santanu Mondal
+ERROR 404,H4B005,Soumyadip Sarkar
+ERROR 404,H4B005,Ritam Saha
+ERROR 404,H4B005,Adrijo Bhowmik
+ERROR 404,H4B005,Kanhaiyalal Agarwal
+Amagus,H4B007,Arjun Kumar Ghosh
+Amagus,H4B007,Rituraj Paul
+Amagus,H4B007,Sohom Saha
+ByteBelles,H4B008,Ankana Das
+ByteBelles,H4B008,Madhurima Chakraborty
+CyberKnights,H4B009,Souvik Sen
+CyberKnights,H4B009,Ankush banerjee
+CyberKnights,H4B009,NILADRI MODAK
+Loading Minds,H4B010,Indrani Som
+Loading Minds,H4B010,Neelakshi Das
+QuaxCode,H4B011,PRITIKA BHAR
+QuaxCode,H4B011,Aratrik Bandyopadhyay
+QuaxCode,H4B011,Rajpratim Dey
+QuaxCode,H4B011,Rohit Chakrabarti
+Semicolon;,H4B012,Rounak Sen
+Semicolon;,H4B012,Soumyajit Mondal
+Semicolon;,H4B012,Gautam Nag
+Lazy Loaders,H4B013,Sanglap Mridha
+Lazy Loaders,H4B013,ANKUSH PAUL
+Lazy Loaders,H4B013,Anupama Halder
+Hoichoi,H4B014,Sagnik Datta
+Hoichoi,H4B014,Swapnendu Banerjee
+Hoichoi,H4B014,ADRITA CHAKRABORTY
+Hoichoi,H4B014,Moyukh Chowdhury
+TECHSAGE,H4B015,Debjit Deb Barman
+TECHSAGE,H4B015,Trisha Sadhukhan
+Code Crafters,H4B016,Suryashish Kundu
+Code Crafters,H4B016,Biswadeep Mukhopadhyay
+Code Crafters,H4B016,Debajit Dutta
+Bit Benders,H4B017,Nikku Kumar Das
+Bit Benders,H4B017,Ritik Singh
+Bit Benders,H4B017,Kunal Shaw
+BadBytes,H4B018,Krishnendu Dasgupta
+BadBytes,H4B018,Arnesh Roychowdhury
+BadBytes,H4B018,Hrittika Pramanick
+BadBytes,H4B018,Dipannita Mondal
+Fourwards,H4B019,Subham Chandra
+Fourwards,H4B019,Shantanu Saha
+Fourwards,H4B019,Kaushan Dutta
+Fourwards,H4B019,Adarsh Agrahari
+Blackout Eclipse,H4B020,Debak Roy
+Blackout Eclipse,H4B020,Akash Bose
+Blackout Eclipse,H4B020,Sangsriti Sarkar
+hackoNickles,H4B021,Prabuddha Chowdhury
+hackoNickles,H4B021,Aditi Saha
+hackoNickles,H4B021,Anita Mukherjee
+hackoNickles,H4B021,Supriya Saha
+Byte  Breakers,H4B023,Sudipta Majumder
+Byte  Breakers,H4B023,Arpan Chowdhury
+Byte  Breakers,H4B023,Poulami Das
+Byte  Breakers,H4B023,Rishov Chakraborty
+INGENICO,H4B024,Atrika
+INGENICO,H4B024,Anupam Mahato
+INGENICO,H4B024,Swarnadeep Saha Poddar
+INGENICO,H4B024,Arpan Kumar De
+HexABit,H4B025,Raja Majumdar (a.k.a r3yc0n1c)
+HexABit,H4B025,Diptanshu Mahish
+HexABit,H4B025,ABHIRUP SAHA
+HexABit,H4B025,Ankit Paul
+Ganak,H4B026,Arunima Chatterjee
+Ganak,H4B026,Swastik Dhar
+Ganak,H4B026,NIRANJAN KUMAR SINGH
+Ganak,H4B026,Suchandra Dhar
+Hackermen,H4B027,YASH GUPTA
+Hackermen,H4B027,Harsh Pandey
+Hackermen,H4B027,Aditya Mondal
+Hackermen,H4B027,DrakZ
+ByteMe,H4B028,Sayan Majumder
+ByteMe,H4B028,Animesh Bag
+ByteMe,H4B028,Soham Das
+Aloo Posto,H4B029,PREENON SAHA
+Aloo Posto,H4B029,Rishav Das
+Aloo Posto,H4B029,Siddhartha Mukherjee
+NeuralNodes,H4B030,Manish Saha
+NeuralNodes,H4B030,Debopom Banerjee
+NeuralNodes,H4B030,Arijit Ghosal
+NeuralNodes,H4B030,Prerna Sharma
+Algovengers,H4B032,Afeef Uddin
+Algovengers,H4B032,Rohit Kumar
+Algovengers,H4B032,Subharthi Hazra
+Algovengers,H4B032,Shubham Kumar Mandal
+Coding Titans,H4B033,Anurag Verma
+Coding Titans,H4B033,Arghadip Chatterjee
+Coding Titans,H4B033,SURANJAN KUMAR
+Coding Titans,H4B033,Prashant Kumar Jha
+Code Crusaders,H4B035,Jugantar Roy
+Code Crusaders,H4B035,Amrit Bhattacharya
+Code Crusaders,H4B035,Ishita Karmakar
+S2K2,H4B036,Keshab Das
+S2K3,H4B036,Swadesh Pal
+S2K4,H4B036,Sowham Bhuin
+S2K5,H4B036,Kushal Ghosh
+Team Nalayak,H4B037,Akash Nath
+Team Nalayak,H4B037,Abhinaba Biswas
+Team Nalayak,H4B037,Rohit Debnath
+Chatushkon,H4B038,Baivab Mukhopadhyay
+Chatushkon,H4B038,Souradip Pal
+Chatushkon,H4B038,Ayush Dhua
+Chatushkon,H4B038,AISHI CHAKRABORTY
+InnovateX,H4B039,Kanailal Manna
+InnovateX,H4B039,Sambit Mondal
+InnovateX,H4B039,Arundhati Bera
+Ctrl-Alt-Defeat,H4B041,Akash Saha
+Ctrl-Alt-Defeat,H4B041,Surajit Maity
+Ctrl-Alt-Defeat,H4B041,Atanu Basak
+God's Plan,H4B042,Agnish De
+God's Plan,H4B042,Bikram Roy
+Bengal Tigers,H4B043,Subhradeep Pal
+Bengal Tigers,H4B043,Devasmita Kundu
+Bengal Tigers,H4B043,Md Safiul Haque
+EdgeRunners,H4B044,Siddharth Biswas
+EdgeRunners,H4B044,Jyotirmoy Bandyopadhayaya
+EdgeRunners,H4B044,Koustav Mondal
+EdgeRunners,H4B044,Pratyay Roy
+Cyberblock,H4B045,Md Amaan
+Cyberblock,H4B045,Adarsh
+Cyberblock,H4B045,Satadru Roy
+Cyberblock,H4B045,Vedanta Banerjee
+DevDash,H4B046,Akash Bag
+DevDash,H4B046,Debajoti Chakraborty
+DevDash,H4B046,Sheetali Maity
+DevDash,H4B046,Sayan Genri
+Algorithm Architects,H4B047,Saswat Sharma
+Algorithm Architects,H4B047,Ritam Chatterjee
+Algorithm Architects,H4B047,Sanu Singh
+Algo Byte,H4B048,Sayan Adhikari
+Algo Byte,H4B048,Dibakar Banerjee
+Algo Byte,H4B048,Pratyush Pal
+Algo Byte,H4B048,Subhadeep Dhar
+Royal Bengal Coders,H4B049,Deep Mondal
+Royal Bengal Coders,H4B049,Anipriyo Mandal
+Royal Bengal Coders,H4B049,Arpan Mandal
+Royal Bengal Coders,H4B049,Arup Matabber
+Hackers,H4B050,Viraj Anand
+Hackers,H4B050,Rupsha Das
+Hackers,H4B050,Amit Mondal
+Bug_Busters,H4B051,Puskar Roy
+Bug_Busters,H4B051,priyankar
+Bug_Busters,H4B051,Shuvadeep Mondal
+Bug_Busters,H4B051,sakshi jaiswal
+Shiftux,H4B052,Sk Wasim Rajjak
+Shiftux,H4B052,Chandreyee Shome
+Shiftux,H4B052,Pranith Dutta
+Shiftux,H4B052,Prithwish Chatterjee
+HackWave Nexus,H4B053,Sounak
+HackWave Nexus,H4B053,Abhirup Banerjee
+HackWave Nexus,H4B053,Dipan Srimany
+HackWave Nexus,H4B053,Sarmistha Ghosh
+Skill Shift,H4B054,Ayushi Mitra
+Skill Shift,H4B054,Siddhanta Ray
+Skill Shift,H4B054,Muhammad Tameem Gazi
+Skill Shift,H4B054,Manjeet Sharma
+KGEC Unknown,H4B055,Arka mandal
+KGEC Unknown,H4B055,Sayandip Paul
+KGEC Unknown,H4B055,Santanu Bhunia
+KGEC Unknown,H4B055,Sagnik Bera
+Attack on Bugs,H4B056,Sanradhya Bhowmik
+Attack on Bugs,H4B056,Farhan Asad
+Attack on Bugs,H4B056,Debojeet Das
+Attack on Bugs,H4B056,Anik Das
+Protogenius,H4B057,Jishnu Baruah
+Protogenius,H4B057,Krishnendu Samanta
+Protogenius,H4B057,Aryan Basu
+Protogenius,H4B057,DEBASHNU PAUL
+Team codeARC,H4B059,Chirag Nahata
+Team codeARC,H4B059,Somyadip Ghosh
+Coding Knights,H4B060,Srijan Mondal
+Coding Knights,H4B060,GOURAV BHADRA
+Coding Knights,H4B060,Archisman Ghosh
+Coding Knights,H4B060,Ahana Dutta
+HACKAUT-ALPHA,H4B062,Aditya Paul
+HACKAUT-ALPHA,H4B062,Arnab Pal
+HACKAUT-ALPHA,H4B062,Debashis Bera
+HACKAUT-ALPHA,H4B062,Parthib Mukherjee
+Code Crafters,H4B063,Lakshya Kumar Singh
+Code Crafters,H4B063,Rishav Raj Bhagat
+Code Crafters,H4B063,AMAN KUMAR JHA
+Code Crafters,H4B063,Priyanshu Tripathi
+RED HITMEN,H4B064,Aayush Dutta
+RED HITMEN,H4B064,ABHISHEK KUMAR VERMA
+RED HITMEN,H4B064,Urooj Ahmad
+Generative Solution,H4B065,Jishnu Ghosh
+Generative Solution,H4B065,Archisman Ray
+Generative Solution,H4B065,Nandani Sharma
+Code 202 Lab,H4B104,Rohan Shaw
+Code 202 Lab,H4B104,Nikita Prasad
+HeartBit,H4B105,Tithi Bose
+HeartBit,H4B105,Rohan Biswas
+Celestia,H4B106,Debdeep Banerjee
+Celestia,H4B106,Soumali Gorai
+Celestia,H4B106,Smriti Sadhu
+</CodeZen>,H4B107,Nandini Pandey
+</CodeZen>,H4B107,Aayan Yadav
+Data Dazzlers,H4B108,Pratik Kumar Singh
+Data Dazzlers,H4B108,Mohammad Sufyan
+Data Dazzlers,H4B108,Navya Choudhary
+Genesis,H4B109,Md Sahadat Sk
+Genesis,H4B109,Prithwika Das
+INVOKATORS,H4B110,Atul Kumar Singh
+INVOKATORS,H4B110,Subhradeep Bhattacharya
+INVOKATORS,H4B110,Utsav Tiwari
+INVOKATORS,H4B110,Rishav Gupta
+CodeFusers,H4B111,Satyaki Dey
+CodeFusers,H4B111,Priyanshu Dutta
+CodeFusers,H4B111,Arunava Dutta
+CodeFusers,H4B111,Pretisha Sahoo
+AI architects,H4B112,Debanjali Bhattacharya
+AI architects,H4B112,Titli Nath
+Underdawgss,H4B113,Poulav Bhowmick
+Underdawgss,H4B113,Sagar Rana
+Underdawgss,H4B113,Binayak Mondal
+Underdawgss,H4B113,Soham Das
+Bugslayers,H4B115,Syamantak Pyne
+Bugslayers,H4B115,Meghdip Karmakar
+Bugslayers,H4B115,Shounak Ghosh
+Bugslayers,H4B115,Debamrita Paul
+ByteBandits,H4B116,Akash Bhakat
+ByteBandits,H4B116,Swarthak Das
+ByteBandits,H4B116,Ashirvad Bhushan
+ByteBandits,H4B116,Saikat Panda
+EdgeX,H4B117,Arghya Ghosh
+EdgeX,H4B117,Anish Biswas
+EdgeX,H4B117,Subhadeep Roy
+Coffee&Code,H4B118,deepita pradhan
+Coffee&Code,H4B118,Srijani Som
+Coffee&Code,H4B118,Shib Sankar Das
+Coffee&Code,H4B118,Anushka Mukjerjee
+MadMaxDevelopers,H4B120,PROMIT CHAUDHURI
+MadMaxDevelopers,H4B120,SHIVADITYA BHATTACHARYA
+MadMaxDevelopers,H4B120,Anurag Bhattacharjee
+MadMaxDevelopers,H4B120,Sankhadeep Bhowmik
+Duo Coders,H4B121,Abhishek Bhattacharjee
+Duo Coders,H4B121,Ritwika Mahapatra
+Duo Coders,H4B121,Ishita Maji
+Duo Coders,H4B121,Sayam Banerjee
+ELITE SQUAD,H4B122,Nilanjan Joarder
+ELITE SQUAD,H4B122,Anwesha Ghosh
+ELITE SQUAD,H4B122,Sanchita Das
+ELITE SQUAD,H4B122,DIBYOSREE BANERJEE
+Dark Knights,H4B123,Anushka Banerjee
+Dark Knights,H4B123,Ankit Biswas
+Dark Knights,H4B123,Abhishk Basak
+Dark Knights,H4B123,Rohan Dey
+BYTE_HAWKS,H4B124,Souvik Pal
+BYTE_HAWKS,H4B124,RAJ BHATTACHARYYA
+BYTE_HAWKS,H4B124,Mrinmay Das
+BYTE_HAWKS,H4B124,Swarnavo Mukherjee
+Byte Clan,H4B125,Siddhartha Pal
+Byte Clan,H4B125,Sk Riyaz
+Byte Clan,H4B125,Saheli Ghosh
+Byte Clan,H4B125,Roshni Sen
+Future Fusion,H4B126,Somnath Sengupta
+Future Fusion,H4B126,Upahar Jana
+Future Fusion,H4B126,Soumodip Chandra
+Future Fusion,H4B126,Sohom Ghosh
+BharatBytes,H4B127,Parambrata Ghosh
+BharatBytes,H4B127,Mrinmoy Mondal
+BharatBytes,H4B127,Priyangsu Banik
+BharatBytes,H4B127,Pritam Mondal
+Decodians,H4B128,Chandrima Kar
+Decodians,H4B128,Pratik Biswas
+Decodians,H4B128,Ayaan Ahmed
+Decodians,H4B128,Md Zaib Reyaz
+Bengal Devs,H4B129,Swapnoneel Saha
+Bengal Devs,H4B129,Samyabrata Maji
+Bengal Devs,H4B129,Tuhin Poddar
+BlackHats,H4B130,ABHINAB DAS
+BlackHats,H4B130,Ankush Roy
+BlackHats,H4B130,Sattwik Das
+BlackHats,H4B130,Biswajit Ghosh
+8Bit,H4B131,Shoaib Raja Molla
+8Bit,H4B131,Aditya Giri
+8Bit,H4B131,Sayandeep Adhikary
+8Bit,H4B131,shuvayu Patra
+AlphaDevnet,H4B132,Arpan Mondal
+AlphaDevnet,H4B132,Mainak Banerjee
+AlphaDevnet,H4B132,Romit Roy
+AlphaDevnet,H4B132,Sayan Das
+HackStreetBoys,H4B133,Dipak Agarwal
+HackStreetBoys,H4B133,Bishal Mondal
+HackStreetBoys,H4B133,Mainak Sarkar
+HackStreetBoys,H4B133,Sanjoy Dey
+Aoife13,H4B134,Sourav
+Aoife13,H4B134,Priyadarshini Sen
+Aoife13,H4B134,Bhavya Sidharth Verma
+Aoife13,H4B134,ROHIT SHRIVASTAVA
+matlulz,H4B135,souvik moitra
+matlulz,H4B135,Saptarshi
+A2RS,H4B136,Rudra Narayan Konar
+A2RS,H4B136,Abhilash Kumar
+A2RS,H4B136,Sayantan Biswas
+A2RS,H4B136,Aritra Pal
+Men of culture,H4B137,Shubhojit Ghosh
+Men of culture,H4B137,Ritesh Debnath
+Men of culture,H4B137,Sayan Das
+Men of culture,H4B137,Sanjoy Paul
+arc,H4B138,Abhishek Kushwaha
+arc,H4B138,Debojeet Karmakar
+Reboot,H4B139,Rohit kumar
+Reboot,H4B139,Sai Kishan
+Reboot,H4B139,Saumya Bhattacharya
+Reboot,H4B139,Ujjwal Kumar Singh
+Coding_Koalas,H4B140,Shivprasad Roul
+Coding_Koalas,H4B140,Amogh
+Lazy Bandits,H4B141,Rupantar Mondal
+Lazy Bandits,H4B141,Gaurav Kumar Singh
+Code-Control,H4B143,Diya Ghosh
+Code-Control,H4B143,Argha Ghosh
+Code-Control,H4B143,Md Sohag Biswas
+Code-Control,H4B143,Sandip Maity
+PeeKaaBoo,H4B144,Aparup Ganguly
+PeeKaaBoo,H4B144,Nachiketa Tiwari
+PeeKaaBoo,H4B144,Swapnanil Saha
+PeeKaaBoo,H4B144,Aviraj Paul
+Code Rollercoaster,H4B145,Ayushi Srivastava
+Code Rollercoaster,H4B145,DEBASMITA GOSWAMI
+Code Rollercoaster,H4B145,Debarshee Chakraborty
+Code Rollercoaster,H4B145,Subhadip Santra
+StrawHatHackers,H4B146,Rishi Raj
+StrawHatHackers,H4B146,Pranjal
+StrawHatHackers,H4B146,Spandan Roy
+CircuitCogs,H4B147,Sreemanta Barman
+CircuitCogs,H4B147,Utsab Santra
+BongO(n),H4B148,Mainak Chattopadhyay
+BongO(n),H4B148,Parthiba Mukhopadhyay
+BongO(n),H4B148,Aritro Saha
+Access Denied,H4B149,Nitish Sadhu
+Access Denied,H4B149,Dishant Yadav
+Access Denied,H4B149,Dipanshu Kumar Mahato
+Access Denied,H4B149,Ankit Chakraborty
+ByteWise,H4B150,Arkadip Ray
+ByteWise,H4B150,Ankan Pal
+ByteWise,H4B150,ANINDYA KOLEY
+ByteWise,H4B150,Aniket De
+Code Wizards,H4B199,Tanmoy Choudhury
+Code Wizards,H4B199,Dipa Roy
+Code Wizards,H4B199,Souvik Raj Singh
+Code Wizards,H4B199,Ranit Mukherjee
+Storm Breakers,H4B031,Soumyaraj Bag
+Storm Breakers,H4B031,Arghya Dutta
+Storm Breakers,H4B031,Soumyajit Biswas
+Storm Breakers,H4B031,Palas Saha
+Seekers,H4B061,Anirban Mitra
+Seekers,H4B061,Chayandev Bera
+Seekers,H4B061,Souvik Bhattacharya
+Seekers,H4B061,Raj Mandal
