@@ -48,7 +48,7 @@ if not participants_df.empty:
     unique_teams = participants_df['team_clean'].unique()
 
 # Input fields
-name_input = st.text_input("Enter Participant's Name")
+name_input = st.selectbox("Enter Participant's Name", options=participants_df['name'])
 team_input = st.selectbox("Select Team Name", options=participants_df['team'].unique())
 
 # Position and font adjustments
