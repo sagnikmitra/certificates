@@ -1,12 +1,13 @@
 import streamlit as st
-from PIL import Image, ImageDraw, ImageFont
-import io
-import pandas as pd
 
 st.set_page_config(
     page_title="H4B S3 Certificates",
     page_icon=":trophy:"
 )
+
+from PIL import Image, ImageDraw, ImageFont
+import io
+import pandas as pd
 
 # Function to draw text on the image
 def draw_text_on_image(name, team, name_y, team_y, font_path, font_size, text_color, template):
