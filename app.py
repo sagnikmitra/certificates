@@ -53,7 +53,7 @@ except FileNotFoundError:
     st.error("participants.csv file not found.")
     participants_df = pd.DataFrame()
 
-# Clean and get unique team names
+# Clean and get unique Team Names
 if not participants_df.empty:
     participants_df['team_clean'] = participants_df['team'].str.lower().str.replace(' ', '')
     unique_teams = participants_df['team_clean'].unique()
@@ -100,7 +100,7 @@ if name_input and team_input:
         
         st.image(img_buffer, caption="Generated Certificate")
 
-        # Create file name with participant's name and team name
+        # Create file name with participant's name and Team Name
         file_name = f"Hack4Bengal_Season_3_Participation_{name_input}_{team_input}.png"
         
         st.download_button(
@@ -112,4 +112,4 @@ if name_input and team_input:
     else:
         st.warning("Details do not match any record in the CSV. Please check your details.")
 else:
-    st.error("Please provide both name and team name.")
+    st.error("Please provide both Name and Team Name.")
