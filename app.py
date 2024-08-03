@@ -12,8 +12,13 @@ def draw_text_on_image(name, team, name_y, team_y, font_path, font_size, text_co
     font = ImageFont.truetype(font_path, font_size)
 
     # Calculate the width and height of the text to center it
-    name_width, name_height = draw.textsize(name, font=font)
-    team_width, team_height = draw.textsize(team, font=font)
+    name_bbox = draw.textbbox((0, 0), name, font=font)
+    team_bbox = draw.textbbox((0, 0), team, font=font)
+    
+    name_width = name_bbox[2] - name_bbox[0]
+    name_height = name_bbox[3] - name_bbox[1]
+    team_width = team_bbox[2] - team_bbox[0]
+    team_height = team_bbox[3] - team_bbox[1]
     
     # Get the image width
     image_width = template.width
@@ -31,6 +36,7 @@ def draw_text_on_image(name, team, name_y, team_y, font_path, font_size, text_co
     template.save(img_buffer, format="PNG")
     img_buffer.seek(0)
     return img_buffer
+
 
 # Streamlit UI
 st.title("Hack4Bengal Season 3 Participation Certificate Generator")
