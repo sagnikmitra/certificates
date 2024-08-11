@@ -12,7 +12,7 @@ def draw_text_on_image(name, team, cert_id, name_y, team_y, id_y, font_path, fon
     draw = ImageDraw.Draw(template)
     font = ImageFont.truetype(font_path, font_size)
     small_font = ImageFont.truetype(font_path, int(font_size / 3))
-    verify_link = f"Certificate Id: {cert_id} Verify at sagnikmitra.com/s3-verify"
+    verify_link = f"Certificate Id: {cert_id} Verify at hack4bengal.tech/verify"
 
     name_bbox = draw.textbbox((0, 0), name, font=font)
     team_bbox = draw.textbbox((0, 0), team, font=font)
@@ -39,7 +39,7 @@ def draw_text_on_image(name, team, cert_id, name_y, team_y, id_y, font_path, fon
 
 st.subheader("Hack4Bengal S3 Certificate Generator")
 
-st.markdown("Verify your certificates at [hack4bengal.tech/verify](https://sagnikmitra.com/s3-verify)")
+st.markdown("Verify your certificates at [hack4bengal.tech/verify](https://hack4bengal.tech/verify)")
 
 user_type = st.selectbox("Choose whether you are a Participant, Core Team Member, Evangelist, or H4B Award Winner", 
                          ["Participant", "Core Team Member", "Evangelist", "H4B Award Winner"],
