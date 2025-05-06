@@ -143,7 +143,7 @@ if user_type in ["Participant", "Core Team Member", "Evangelist", "H4B Award Win
                                                   (participants_df['team_clean'] == team_input.lower().replace(' ', '')), 'cert_id'].values[0]
                     if not pd.isna(cert_id):
                         img_buffer = draw_text_on_image(name_input.title(), team_input, cert_id, 628, 974, cert_location, font_path, font_size, text_color, template)
-                        file_name = f"Hack4Bengal_Season_3_Participation_{name_input}_{team_input}.png"
+                        file_name = f"Hack4Bengal_Season_4_Participation_{name_input}_{team_input}.png"
                     else:
                         st.error("Certificate ID not found for the participant.")
                 else:
@@ -153,7 +153,7 @@ if user_type in ["Participant", "Core Team Member", "Evangelist", "H4B Award Win
                     cert_id = core_df.loc[(core_df['name'] == name_input) & (core_df['team'] == team_input), 'cert_id'].values[0]
                     if not pd.isna(cert_id):
                         img_buffer = draw_text_on_image(name_input.title(), team_input, cert_id, 628, 974, cert_location, font_path, font_size, text_color, template)
-                        file_name = f"Hack4Bengal_Season_3_Core_Team_Member_{name_input}.png"
+                        file_name = f"Hack4Bengal_Season_4_Core_Team_Member_{name_input}.png"
                     else:
                         st.error("Certificate ID not found for the core team member.")
                 else:
@@ -163,7 +163,7 @@ if user_type in ["Participant", "Core Team Member", "Evangelist", "H4B Award Win
                     cert_id = evangelists_df.loc[(evangelists_df['name'] == name_input) & (evangelists_df['team'] == team_input), 'cert_id'].values[0]
                     if not pd.isna(cert_id):
                         img_buffer = draw_text_on_image(name_input.title(), team_input, cert_id, 628, 974, cert_location, font_path, font_size, text_color, template)
-                        file_name = f"Hack4Bengal_Season_3_Evangelist_{name_input}.png"
+                        file_name = f"Hack4Bengal_Season_4_Evangelist_{name_input}.png"
                     else:
                         st.error("Certificate ID not found for the evangelist.")
                 else:
