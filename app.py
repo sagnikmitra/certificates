@@ -40,6 +40,7 @@ def draw_text_on_image(name, team, cert_id, name_y, team_y, id_y, font_path, fon
 st.subheader("Hack4Bengal S4 Certificate Generator")
 
 st.markdown("Verify your certificates at [hack4bengal.tech/verify](https://hack4bengal.tech/verify)")
+st.markdown("If you are facing any error generating, please write us at [hack4bengal@gmail.com](mailto:hack4bengal@gmail.com)")
 
 user_type = st.selectbox("Choose whether you are a Participant, Core Team Member, Evangelist, or H4B Award Winner", 
                          ["Participant", "Core Team Member", "Evangelist", "H4B Award Winner"],
