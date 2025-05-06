@@ -4,7 +4,7 @@ import io
 import pandas as pd
 
 st.set_page_config(
-    page_title="H4B S3 Certificates",
+    page_title="H4B S4 Certificates",
     page_icon=":trophy:"
 )
 
@@ -37,7 +37,7 @@ def draw_text_on_image(name, team, cert_id, name_y, team_y, id_y, font_path, fon
     img_buffer.seek(0)
     return img_buffer
 
-st.subheader("Hack4Bengal S3 Certificate Generator")
+st.subheader("Hack4Bengal S4 Certificate Generator")
 
 st.markdown("Verify your certificates at [hack4bengal.tech/verify](https://hack4bengal.tech/verify)")
 
