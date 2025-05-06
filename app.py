@@ -104,7 +104,7 @@ elif user_type == "H4B Award Winner":
                 elif category == 'Bronze':
                     template_path = "certificate-bronze.png"
             else:
-                st.warning("Details do not match any record in the winners CSV. Please check your details.")
+                st.warning("Please verify the name and team.")
         else:
             st.error("The winners CSV file is empty.")
     except FileNotFoundError:
