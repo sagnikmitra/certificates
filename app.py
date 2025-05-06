@@ -147,7 +147,7 @@ if user_type in ["Participant", "Core Team Member", "Evangelist", "H4B Award Win
                     else:
                         st.error("Certificate ID not found for the participant.")
                 else:
-                    st.warning("Details do not match any record in the CSV. Please check your details.")
+                    st.warning("Please verify the name and team.")
             elif user_type == "Core Team Member":
                 if not core_df.empty and ((core_df['name'] == name_input) & (core_df['team'] == team_input)).any():
                     cert_id = core_df.loc[(core_df['name'] == name_input) & (core_df['team'] == team_input), 'cert_id'].values[0]
